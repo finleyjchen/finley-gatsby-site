@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Search Engine Optimization: A brief introduction'
-date: 2018-03-26T10:34:00-07:00
+date: 2018-03-26T17:34:00.000Z
 description: >-
   “SEO”, a term coined by developers for Search Engine Optimization, are the
   strategies and techniques a “SEO specialist” would use to optimize a website’s
@@ -9,7 +9,6 @@ description: >-
 tags:
   - seo
   - google
-  - ''
 ---
 ## Why is SEO so important?
 
