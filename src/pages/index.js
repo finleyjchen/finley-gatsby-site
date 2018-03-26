@@ -6,6 +6,11 @@ export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
+    const divStyle = {
+      border:'3px solid #666',
+      border-radius:'30px',
+      padding:'1em 2em',
+    };
 
     return (
       <section className="section">
@@ -18,7 +23,7 @@ export default class IndexPage extends React.Component {
             .map(({ node: post }) => (
               <div
                 className="content"
-                style={{ border: '3px solid #666', border-radius:'30px', padding: '1em 2em' }}
+                style={divStyle}
                 key={post.id}
               >
                 <p>
