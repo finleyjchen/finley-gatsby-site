@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: The Developer Client Workflow
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: Between a web developer and the client, there is a common workflow that proves to be effective at communicating both people's opinions.
 tags:
-  - flavor
-  - tasting
+  - web development
+  - workflow
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
