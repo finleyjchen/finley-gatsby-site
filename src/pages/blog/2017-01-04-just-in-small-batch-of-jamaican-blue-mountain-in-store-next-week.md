@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Search Engine Optimization: a short introduction'
-date: 2018-03-26T09:04:00-07:00
+date: 2018-03-26T16:04:00.000Z
 description: >-
   “SEO”, a term coined by developers for Search Engine Optimization, are the
   strategies and techniques a “SEO specialist” would use to optimize a website’s
@@ -28,7 +28,7 @@ Microsoft founder Bill Gates once said, "content is king". Google is constantly 
 
 ![Bill Gates](/img/bill gates.jpg)
 
-> _**"Those who succeed will propel the Internet forward as a marketplace of ideas, experiences, and products-a marketplace of content." - Bill Gates**_
+> **_"Those who succeed will propel the Internet forward as a marketplace of ideas, experiences, and products-a marketplace of content." - Bill Gates_**
 
 Okay, so make quality content. What does this actually mean?
 
@@ -36,11 +36,19 @@ Many people have done research to find out what Google really seeks in 'quality 
 
 ## Best practices
 
-So back to our hypothetical coffee shop website. We are a small business with not too much content, so how are we going to match up against other coffee shops? 
+The idea of following 'best practices' is what is accepted as the best and easiest way to improve your website's rankings.
 
-Search engine optimization consists of many small changes made to make it easier for web crawlers to identify quality content. This is where the role of SEO specialists comes in. Your website's infrastructure contains a lot more than just the words and pictures you see on the screen. For example, a websites page loading speed, which is determined by tons of factors from hosting to compressing images, can be optimized, and may result in better search rankings.
+So back to our hypothetical coffee shop website. As a small business with not too much content, so how are we going to match up against other coffee shops? 
 
-SEO specialists follow many of Google's self-outlined best practices. I will be writing more on these best practices, but here's a short list of readings to better understand what SEO is really all about.
+By making sure your website follows SEO best practices, following all the guidelines for a 'high quality website'. 
+
+Search engine optimization consists of many small changes made to make it easier for web crawlers to identify quality content. This is where the role of SEO specialists comes in. Your website's infrastructure contains a lot more than just the words and pictures you see on the screen. For example, a websites page loading speed, which is determined by tons of factors from hosting to compressing images, can be optimized, and may result in better search rankings. 
+
+Website accessibility has also become an increasing concern for SEO best practices. Having a website that is mobile-friendly makes a huge difference in SEO since 2015. 
+
+
+
+SEO specialists follow many of Google's self-outlined best practices. I will be writing more on these best practices, but here's a short list of readings to better understand more about SEO and best practices.
 
 [Google's SEO starter guide](https://support.google.com/webmasters/answer/7451184?hl=en&ref_topic=3309469)
 
