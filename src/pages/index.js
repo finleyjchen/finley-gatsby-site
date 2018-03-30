@@ -8,7 +8,7 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
     const divStyle = {
       border:'3px solid #666',
-      border-radius:'30px',
+      
       padding:'1em 2em',
     };
 
